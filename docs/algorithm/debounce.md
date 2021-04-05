@@ -11,3 +11,5 @@
         timer = setTimeout(fn, timeout);
       }
     }
+
+关于延迟时间的处理，此处涉及到了[闭包](../closure.md)的知识。
