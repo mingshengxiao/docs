@@ -15,3 +15,16 @@
         }
       }
     }
+
+    // setTimeout
+    function throttle(fn, threshHold) {
+      let timer;
+      const context = this;
+      const args = arguments;
+      if (!timer) {
+        timer = setTimeout(() => {
+          fn.apply(context, args);
+          timer = null;
+        }, threshHold);
+      }
+    }
