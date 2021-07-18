@@ -4,6 +4,7 @@
   - 手写算法
     - [防抖debounce](algorithm/debounce.md)
     - [节流函数throttle](algorithm/throttle.md)
+    - [手动实现call方法](algorithm/myCall.md)
 
 - CSS
   - [布局](layout.md)
