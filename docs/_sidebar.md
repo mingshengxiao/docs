@@ -5,10 +5,12 @@
     - [防抖debounce](algorithm/debounce.md)
     - [节流函数throttle](algorithm/throttle.md)
     - [手动实现call方法](algorithm/myCall.md)
+    <!-- - [手动实现深拷贝](algorithm/deepClone.md) -->
 
 - CSS
   - [布局](layout.md)
   - [层叠上下文](CSS/层叠上下文.md)
+  - [BFC](CSS/BFC.md)
 
 - 工程化
   - [常用插件](工程化/前端常用资源收集.md)
