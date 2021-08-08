@@ -6,6 +6,7 @@
     - [防抖debounce](algorithm/debounce.md)
     - [节流函数throttle](algorithm/throttle.md)
     - [手动实现call方法](algorithm/myCall.md)
+    - [myInstanceOf方法](algorithm/myInstanceof.md)
     <!-- - [手动实现深拷贝](algorithm/deepClone.md) -->
 
 - CSS

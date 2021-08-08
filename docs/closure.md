@@ -21,7 +21,13 @@ for (var i = 1; i <= 10; i++) {
     setTimeout(function() {
       console.log(j)
     }, j * 1000);
-  }, i)
+  })(i)
+}
+
+for (var i = 1; i <= 10; i++) {
+  setTimeout(function timer(j) {
+    console.log(j)
+  }, 0, i);
 }
 
 // 解决循环赋值的问题也可以将var改成let实现
