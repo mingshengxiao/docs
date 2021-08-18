@@ -7,6 +7,7 @@
     - [节流函数throttle](algorithm/throttle.md)
     - [手动实现call方法](algorithm/myCall.md)
     - [myInstanceOf方法](algorithm/myInstanceof.md)
+    - [数组拍平](algorithm/数组拍平.md)
     <!-- - [手动实现深拷贝](algorithm/deepClone.md) -->
 
 - CSS
