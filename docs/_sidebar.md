@@ -8,6 +8,7 @@
     - [手动实现call方法](algorithm/myCall.md)
     - [myInstanceOf方法](algorithm/myInstanceof.md)
     - [数组拍平](algorithm/数组拍平.md)
+    - [new的实现](algorithm/new.md)
     <!-- - [手动实现深拷贝](algorithm/deepClone.md) -->
 
 - CSS
