@@ -17,6 +17,7 @@
   - [层叠上下文](CSS/层叠上下文.md)
   - [BFC](CSS/BFC.md)
   - [pointer-events](CSS/pointer-events.md)
+  - [重排与重绘](CSS/重排与重绘.md)
   <!-- - [属性选择器](CSS/属性选择器.md) -->
 
 - 工程化
