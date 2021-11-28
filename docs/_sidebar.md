@@ -10,6 +10,8 @@
     - [数组拍平](algorithm/数组拍平.md)
     - [new的实现](algorithm/new.md)
     - [查找两个数组之间的差异](algorithm/difference.md)
+    - [实现Promise.all](algorithm/Promise.all.md)
+    - [实现Promise.race](algorithm/Promise.race.md)
     <!-- - [手动实现深拷贝](algorithm/deepClone.md) -->
 
 - CSS
